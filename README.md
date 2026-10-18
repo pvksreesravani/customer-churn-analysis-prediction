@@ -138,21 +138,20 @@ churn-prediction/
 ├── churn_model(1).joblib          # trained Random Forest pipeline (generated)
 └── README.md
 ```
-## Project Visualizations
 
 ## 📊 Project Visualizations
 
-### 1. Customer Churn Rate
-![Customer Churn Rate](<Output Images/churn-rate.png>)
+### 1. Churn Rate Analysis
+![Churn Rate Analysis](<Output Images/Churnrate Analysis.png>)
 
-### 2. Correlation Heatmap
-![Feature Correlation Heatmap](<Output Images/correlation-heatmap.png>)
+### 2. Random Forest Confusion Matrix
+![Random Forest Confusion Matrix](<Output Images/RandomForest ConfusionMatrix.png>)
 
-### 3. Last Purchase Days by Churn
-![Last Purchase Days by Churn](<Output Images/last-purchase-days.png>)
+### 3. Correlation Heatmap
+![Correlation Heatmap](<Output Images/correlationheatmap.png>)
 
-### 4. Model Evaluation
-![Model Evaluation](<Output Images/model-evaluation.png>)
+### 4. Last Purchase Days vs Churn
+![Last Purchase Days vs Churn](<Output Images/lastpurchase vs churn.png>)
 
 ## Technologies Used
 Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, Joblib
