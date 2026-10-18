@@ -133,9 +133,9 @@ The model catches **75% of customers who actually churn** (90 of 120). Class wei
 ```
 churn-prediction/
 ├── churnprediction.py          # full Python script
-├── churnprediction.ipynb       # Google Colab notebook with outputs
+├── churnprediction(1).ipynb       # Google Colab notebook with outputs
 ├── customer_churn_data.csv     # cleaned dataset (generated)
-├── churn_model.joblib          # trained Random Forest pipeline (generated)
+├── churn_model(1).joblib          # trained Random Forest pipeline (generated)
 └── README.md
 ```
 
