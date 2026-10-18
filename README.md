@@ -139,17 +139,21 @@ churn-prediction/
 └── README.md
 ```
 ## Project Visualizations
+
+## 📊 Project Visualizations
+
 ### 1. Customer Churn Rate
-![Customer Churn Rate](Output Images/churn-rate.png)
+![Customer Churn Rate](<Output Images/churn-rate.png>)
 
 ### 2. Correlation Heatmap
-![Feature Correlation Heatmap](Output Images/correlation-heatmap.png)
+![Feature Correlation Heatmap](<Output Images/correlation-heatmap.png>)
 
-### 3. Churn by Last Purchase Days
-![Last Purchase Days by Churn](Output Images/last-purchase-days.png)
+### 3. Last Purchase Days by Churn
+![Last Purchase Days by Churn](<Output Images/last-purchase-days.png>)
 
 ### 4. Model Evaluation
-![Model Evaluation](Output Images/model-evaluation.png)
+![Model Evaluation](<Output Images/model-evaluation.png>)
+
 ## Technologies Used
 Python, NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, Joblib
 
